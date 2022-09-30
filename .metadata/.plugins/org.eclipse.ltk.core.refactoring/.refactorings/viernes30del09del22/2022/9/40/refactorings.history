@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;IntroMetodos.java&apos; to &apos;metodos.IntroMetodos.java&apos;&#x0D;&#x0A;- Original project: &apos;viernes30del09del22&apos;&#x0D;&#x0A;- Destination element: &apos;metodos.IntroMetodos.java&apos;&#x0D;&#x0A;- Original element: &apos;metodos.IntroMetodos.java&apos;" description="Copy compilation unit" destination="/src&lt;metodos{IntroMetodos.java" element1="/src&lt;metodos{IntroMetodos.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1664579822806" units="1" version="1.0"/>
+</session>
